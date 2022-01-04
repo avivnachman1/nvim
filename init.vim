@@ -1,3 +1,4 @@
+"my config
 call plug#begin()
 "Aviv
 Plug 'jiangmiao/auto-pairs'
